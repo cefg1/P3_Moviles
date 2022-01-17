@@ -4,7 +4,7 @@ El contenido del proyecto es el siguiente:
   - follower_modificado.py
   - turtlebot3_autorace.world
   - P3_Moviles_Informe.pdf
-  - 
+  - video_completo_proyecto.mp4
 
 ## follower_p.py
 Contiene un código de detección y seguimiento de una línea amarilla
@@ -18,5 +18,5 @@ Mapa del entorno en el que probar los códigos anteriores
 ## P3_Moviles_Informe.pdf
 Informe que contiene todo lo relacionado con la práctica
 
-## Video del proyecto
+## video_completo_proyecto.mp4
 Vídeo demostrativo del funcionamiento del proyecto
